@@ -5,6 +5,9 @@ Convert Google Maps JSON from <a target="_blank" href="https://takeout.google.co
 
 The code is 100% client-side using recent Javascript blob file handling. 
 
+<h3>Demo</h3>
+A working demo is available <a href="http://novastra.net/demo/JSONtoKML">here</a>
+
 <h3>Description</h3>
 The file input creates a blob for the JSON file with a fake local URL. 
 
